@@ -1,3 +1,5 @@
+package presentation2;
+
 public class BasicStuff {
 
     static int z = 7;

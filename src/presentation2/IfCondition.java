@@ -1,3 +1,5 @@
+package presentation2;
+
 public class IfCondition {
 
     public static void main(String[] args) {
@@ -18,7 +20,7 @@ public class IfCondition {
         System.out.println("");
 
          /* Exercise 2 */
-        // if a number b is in the interval [5, 20)] then display "The number is in interval"
+        // if a number b is in the interval [5, 20) then display "The number is in interval"
         // if not display "The number is not in the interval"
         System.out.println("Exercise 2");
         if (b >= 5 && b < 20) {

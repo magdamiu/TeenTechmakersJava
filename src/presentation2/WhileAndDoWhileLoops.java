@@ -1,3 +1,5 @@
+package presentation2;
+
 public class WhileAndDoWhileLoops {
 
     public static void main(String[] args) {
